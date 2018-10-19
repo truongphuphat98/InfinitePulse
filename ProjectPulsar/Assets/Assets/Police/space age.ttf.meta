@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 1da4678fb9fb7ec44af2ac0c9b185015
+timeCreated: 1479912339
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 190
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Space Age
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
