@@ -1,2 +1,2 @@
 # InfinitePulse
-Infinte Pulse Project - Fisrt Year - 2016
+Infinte Pulse Project - First Year - 2016
